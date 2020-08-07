@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Information
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[<iframe src="https://forms.yandex.ru/u/5e621604c6692c0d5a26378c/?iframe=1" frameborder="0" name="ya-form-5e621604c6692c0d5a26378c" width="650"></iframe>]({{ site.baseurl }}/)
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### Contacts
+
+- [lucywheel@gmail.com](mailto:lucywheel@gmail.com)
+- [Telegram](https://teleg.run/lucywheel)
