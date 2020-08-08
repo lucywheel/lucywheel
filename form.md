@@ -1,5 +1,5 @@
 ---
-layout: form
+layout: page
 title: Форма заявки
 permalink: /form/
 ---
